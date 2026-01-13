@@ -1,4 +1,3 @@
-#streamlit run 03谢卓君.py
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
